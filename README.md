@@ -65,4 +65,4 @@
 
 ১. রিপোজিটরি ক্লোন করুন:
 ```bash
-git clone [https://github.com/আপন](https://github.com/আপন)ার-ইউজারনেম/আপনার-রিপো-নাম.git
+git clone https://github.com/eyanur-islam/amar-pythpon-code.git
