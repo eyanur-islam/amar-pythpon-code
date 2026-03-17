@@ -59,3 +59,21 @@ name ["for","god",'nana']
 for n in name:
     print(n)
 print("finish")
+
+
+for i in range(101):
+    print(i)
+name =["eyanur","nifad",":nasim","shohan","jahanur",]
+for n in name :
+    print(n)
+    print(name )
+for i in range(101):
+    print("nifad")
+for i in range(101):
+    print("eyanur")
+for i in range(301):
+    print("rupom")
+for i in range (310):
+    print( "nifad")
+for j in range (1001):
+    print("nifad")
