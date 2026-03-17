@@ -77,3 +77,32 @@ for i in range (310):
     print( "nifad")
 for j in range (1001):
     print("nifad")
+
+age =20
+if  age >=18:
+    print("tumi votar ")
+else:
+    print("votar na")
+sal =2026
+if sal==2024:
+    print("2026 ha")
+else:
+    print("2024 na")
+num = 3
+
+if num > 5:
+    print("Boro")
+else :
+    print ("choto")
+nam =6324532
+
+if nam >43522:
+    print ("bro ")
+else: 
+    print("choto")
+bi=552455554553324532645236543256
+if bi<152652:
+    print("choto")
+else:
+    print("boro")
+    
